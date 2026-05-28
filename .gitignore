@@ -1,0 +1,29 @@
+## Build output
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+
+## Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+## Test artifacts
+TestAutoMount.cs
+TestAutoMountProj/
+ConvertIcoProj/
+ConvertToIco.cs
+
+## Screenshots
+screenshot*.png
+
+## Test VHDX
+test.vhdx
+
+## Runtime config
+automount.json
+
+## IDE
+.claude/
